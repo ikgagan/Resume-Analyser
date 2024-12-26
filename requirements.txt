@@ -1,0 +1,7 @@
+os
+re
+requests
+beautifulsoup4
+PyPDF2
+openai
+python-dotenv
